@@ -1,4 +1,4 @@
-# Exercício 4: Listagem e Renderização de Componentes
+Listagem e Renderização de Componentes
 
 Este projeto utiliza React com TypeScript para criar um componente que busca dados de uma API fictícia e renderiza esses dados usando outro componente.
 
